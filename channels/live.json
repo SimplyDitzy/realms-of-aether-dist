@@ -1,0 +1,11 @@
+{
+  "channel": "live",
+  "version": "0.1.0",
+  "artifact": {
+    "url": "https://github.com/SimplyDitzy/realms-of-aether-dist/releases/download/v0.1.0/RealmsOfAether-windows-0.1.0.zip",
+    "sha256": "32d68db544f38b833386a1a796c8bca7ec4460bb1b30f8b6a0bde2ecba632c44",
+    "size": 58898303,
+    "platform": "windows"
+  },
+  "notes": "Public distribution channel for the Realms of Aether launcher. Builds come from the (private) game repo's scripts/build_release.ps1; the zip is published as a Release asset on THIS repo."
+}
