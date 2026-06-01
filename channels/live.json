@@ -1,11 +1,11 @@
 {
   "channel": "live",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "artifact": {
-    "url": "https://github.com/SimplyDitzy/realms-of-aether-dist/releases/download/v0.1.2/RealmsOfAether-windows-0.1.2.zip",
-    "sha256": "6ac90c06f67fbfa200d586be985153ea134bc87d338112362b2c13a0f115303d",
-    "size": 58954015,
+    "url": "https://github.com/SimplyDitzy/realms-of-aether-dist/releases/download/v0.1.3/RealmsOfAether-windows-0.1.3.zip",
+    "sha256": "b1c55704a60aac693af7646c19a08b0059fd33056403ea5ee59062fbe2fcc43e",
+    "size": 59076901,
     "platform": "windows"
   },
-  "notes": "Built by scripts/build_release.ps1. Publish RealmsOfAether-windows-0.1.2.zip as release asset v0.1.2 on SimplyDitzy/realms-of-aether-dist, then commit this manifest there."
+  "notes": "Built by scripts/build_release.ps1. Publish RealmsOfAether-windows-0.1.3.zip as release asset v0.1.3 on SimplyDitzy/realms-of-aether-dist, then commit this manifest there."
 }
