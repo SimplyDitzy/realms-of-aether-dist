@@ -1,0 +1,79 @@
+{
+  "entries": [
+    {
+      "version": "0.1.16",
+      "date": "2026-06-04",
+      "title": "Chat, Settings & Bug Reports",
+      "notes": [
+        "In-world chat — press Enter to talk to everyone in the realm.",
+        "Report bugs without leaving the game: type /bug to open a report form (subject, description, and up to 5 screenshots — it can even snapshot your current screen). Reports come straight to the dev.",
+        "A full Settings menu — rebind any key (including your hotbar slots) and adjust mouse look sensitivity and invert-Y. Open it from the title-screen cog or the pause menu.",
+        "Training Grounds polish — you now spawn centered in the clearing, floating Aether-crystal lamps frame the grounds, and all the practice + wounded-ally dummies are in their stations."
+      ]
+    },
+    {
+      "version": "0.1.15",
+      "date": "2026-06-03",
+      "title": "Stability",
+      "notes": [
+        "Fixed a bug where you could briefly fall through the world right after joining."
+      ]
+    },
+    {
+      "version": "0.1.14",
+      "date": "2026-06-02",
+      "title": "The Armoury",
+      "notes": [
+        "The weapon selection got a proper home — a wooden armoury rack in the Training Grounds courtyard, with each class's weapon resting above its banner.",
+        "Moved it off the spawn pad and out of the path, opening the courtyard up toward the practice dummies."
+      ]
+    },
+    {
+      "version": "0.1.13",
+      "date": "2026-06-02",
+      "title": "Combat & Weapons",
+      "notes": [
+        "New — the Arcanist is now a ranged caster: wield the Aether Wand and fire traveling magic bolts that can miss, be dodged, and are blocked by walls.",
+        "You can now see other players blocking — the guard pose holds even while moving.",
+        "The Training Grounds are solid now — walls, towers, and weapon pedestals no longer let you walk through them.",
+        "Stronger jump — you can finally clear the pit walls.",
+        "Per-weapon swing animations: sword, warhammer, and dagger each swing their own way, and swings were slowed down so they actually read.",
+        "Every weapon now sits properly in-hand (sword, shield, scythe, hammer, dagger).",
+        "Interact is now F (was E), and the interact prompt is centered on screen.",
+        "The spellbook closes with Esc, and the camera no longer fights you while it's open.",
+        "Fixed a camera snap when holding both mouse buttons and releasing one."
+      ]
+    },
+    {
+      "version": "0.1.12",
+      "date": "2026-06-01",
+      "title": "Starter Weapons",
+      "notes": [
+        "Each class can grab its starter weapon from the rack in the Training Grounds and wield it — visible to everyone in multiplayer.",
+        "Armed swing animations play when you attack with a weapon.",
+        "Press U anywhere to stow your weapon back to fists."
+      ]
+    },
+    {
+      "version": "0.1.11",
+      "date": "2026-05-31",
+      "title": "Online Play & First Playtest",
+      "notes": [
+        "A dedicated, always-on server so friends can meet in the same world.",
+        "First-playtest fixes: training-dummy damage, respawn if you fall off the world, the Esc pause menu, and smoother blocking.",
+        "Fixed a logging flood that could crash a client during long sessions."
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "date": "2026-05-31",
+      "title": "First Playable Realm",
+      "notes": [
+        "The first online build: Title → Character Creation → a shared 3D world.",
+        "Create a Woken from three peoples and four classes and walk the Young Wood together.",
+        "Third-person MMO camera, nameplates, and live multiplayer movement.",
+        "This launcher — download once, stay updated, click Play."
+      ]
+    }
+  ]
+}
