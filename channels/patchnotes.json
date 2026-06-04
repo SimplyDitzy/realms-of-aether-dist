@@ -3,12 +3,20 @@
     {
       "version": "0.1.16",
       "date": "2026-06-04",
-      "title": "Chat, Settings & Bug Reports",
+      "title": "Class Identity, Chat & Bug Reports",
       "notes": [
+        "Every class now plays to its own identity — distinct health and mana pools, and a real combat system underneath it all: critical hits, dodges, armor, and physical vs. Aetheric damage.",
+        "Core abilities (press E): each class has a signature, innate power. Arcanist — Blink (teleport); Daring — Stealth (vanish until an enemy closes in); Sentinel — Fortify (toggle on innate damage resistance); Warden — Restoration (a channeled heal).",
+        "Arcanist — Arcane Burst: aim a ring on the ground and detonate an Aetheric blast on your target.",
+        "Daring — Flicker Strike: flick behind your target and strike from blind with a big bonus to crit.",
+        "Sentinel — Shield Charge: hold to wind up the distance, release to physically rush your foe with your shield raised (needs a shield equipped).",
+        "Warden — reborn as a robed, staff-wielding healer: cast Aether Mend on yourself or an ally, Renewing Pulse to heal everyone nearby (it chains friend to friend), and fling the Aether Lance as a ranged attack.",
+        "Combat feel: abilities require the right weapon in hand, a clear cast bar shows what you're casting, hotbar slots light up only when usable, and damage + heal numbers float right at whoever they land on.",
         "In-world chat — press Enter to talk to everyone in the realm.",
-        "Report bugs without leaving the game: type /bug to open a report form (subject, description, and up to 5 screenshots — it can even snapshot your current screen). Reports come straight to the dev.",
-        "A full Settings menu — rebind any key (including your hotbar slots) and adjust mouse look sensitivity and invert-Y. Open it from the title-screen cog or the pause menu.",
-        "Training Grounds polish — you now spawn centered in the clearing, floating Aether-crystal lamps frame the grounds, and all the practice + wounded-ally dummies are in their stations."
+        "Report bugs without leaving the game: type /bug for a form with a subject, description, and up to 5 screenshots (it can even snapshot your current screen). Reports come straight to the dev.",
+        "A full Settings menu — rebind any key, including your hotbar slots, and adjust mouse look sensitivity and invert-Y. Open it from the title-screen cog or the pause menu.",
+        "The Training Grounds were rebuilt: spawn centered in a clearing lit by floating Aether-crystal lamps, then walk the avenue past the Armory to a Target Range and a Heal Yard (with wounded-ally dummies to practice healing on), ending at a big Duel Pit.",
+        "Snappier jump and tuned movement speeds (walk, combat-trot, and sprint)."
       ]
     },
     {
