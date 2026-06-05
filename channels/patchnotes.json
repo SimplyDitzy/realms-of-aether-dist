@@ -1,6 +1,16 @@
 {
   "entries": [
     {
+      "version": "0.1.18",
+      "date": "2026-06-05",
+      "title": "Hotfix — Camera & Polish",
+      "notes": [
+        "Fixed a camera glitch where walking up close to another player could black out most of your screen.",
+        "Reworked the class descriptions on the character creation screen.",
+        "Stability: the menus can no longer get stuck during a screen transition."
+      ]
+    },
+    {
       "version": "0.1.17",
       "date": "2026-06-05",
       "title": "Enemies, Levels & Loot",
