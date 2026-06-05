@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "version": "0.1.22",
+      "date": "2026-06-05",
+      "title": "Multiplayer Stability & Combat Fixes",
+      "notes": [
+        "The big one — multiplayer is stable again. Connections were silently dropping a few seconds after a fight got busy, which left players invisible to each other or disconnected. Fixed at the root, so you can adventure together without dropping.",
+        "Raise your shield and it actually protects you now — blocking reduces the damage you take, out in the world and in duels alike.",
+        "Looting is simpler — just click an item in the loot window to take it (no more Shift-clicking needed).",
+        "No more getting stuck mid-swing after you respawn.",
+        "You now recover health on your own once you're out of combat, so you can patch up between fights without a healer.",
+        "Logging out and back in no longer refills your health — your wounds come with you.",
+        "Enemies show their level at a glance, right on their nameplate.",
+        "You'll only see floating combat numbers from fights near you now, not from players battling clear across the map.",
+        "Goblins keep their distance from the Training Grounds, so the safe haven stays safe.",
+        "Visual polish — smoother shadows on your hero as you move, a cleaner dirt path flowing into the spawn clearing, and a stray shadow line across the ground cleaned up."
+      ]
+    },
+    {
       "version": "0.1.21",
       "date": "2026-06-05",
       "title": "Hotfix — Stuck Below the World",
