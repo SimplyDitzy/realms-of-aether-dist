@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "version": "0.1.17",
+      "date": "2026-06-05",
+      "title": "Enemies, Levels & Loot",
+      "notes": [
+        "The world fights back — goblins now roam the Young Wood. They spot you, give chase, trade blows, and respawn over time. The Training Grounds stay a safe haven.",
+        "Earn XP and level up: every kill grants experience as you climb from level 1 toward 50, growing steadily stronger. A gold XP bar and your level sit on the HUD, with a flourish each time you level.",
+        "Falling in battle now has weight — a proper death screen, then a respawn back at the Training Grounds with a small XP setback. Duel-pit sparring stays penalty-free.",
+        "Real gear, finally yours — press I for your bag and C for the new Character screen: a rotatable 3D model of your hero wearing full paper-doll equipment (head, shoulders, chest, gloves, legs, boots, weapon, offhand) beside a complete stats sheet. Drag items between your bag and your gear.",
+        "Loot drops — defeated goblins can leave a treasure chest behind. Walk up, press F, and take what's inside (Loot All, or drag and Shift-click items into your bag).",
+        "Food you can eat — right-click a consumable in your bag to eat it and heal up. And keep your eyes open... something very rare and very delicious is out there.",
+        "Pick up where you left off — you log back in right where you logged out, with your custom hotbar intact.",
+        "New Graphics settings — anti-aliasing, shadow quality and more, so the game runs and looks its best on your machine.",
+        "Loads of combat and interface polish — clearer hit numbers and a satisfying camera punch, smarter auto-attack, and nameplates and health bars that no longer show through walls."
+      ]
+    },
+    {
       "version": "0.1.16",
       "date": "2026-06-04",
       "title": "Class Identity, Chat & Bug Reports",
