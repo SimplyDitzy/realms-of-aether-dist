@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "version": "0.1.20",
+      "date": "2026-06-05",
+      "title": "Hotfix — Falling Through the World",
+      "notes": [
+        "Fixed players (especially new ones) falling through the floor and blacking out when moving into areas that were still loading in. The ground now holds you steady while the terrain streams."
+      ]
+    },
+    {
       "version": "0.1.19",
       "date": "2026-06-05",
       "title": "Leveling & Loot",
