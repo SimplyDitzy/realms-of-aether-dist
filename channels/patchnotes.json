@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "version": "0.1.24",
+      "date": "2026-06-05",
+      "title": "Parties, Friends & Whispers",
+      "notes": [
+        "Group up — invite a friend to a party with /invite <name>, by right-clicking them, or from the new social menu (press O). Party members get a clean frame for each ally on the left (name, level, health, mana).",
+        "Heal your team — click an ally's party frame to target them, so a Warden can keep a tank alive without chasing them around.",
+        "Friends list — right-click a nearby player for Add Friend / Invite / Whisper / Block. Your friends persist across all your characters and show who's online; see them all by pressing O.",
+        "Whispers — send a private message with /w <name> <message>, and /r to reply to the last person who whispered you.",
+        "Party chat — /p <message> talks to your party only.",
+        "Press O anytime to open the social menu: your party, your friends, and who's online to invite."
+      ]
+    },
+    {
       "version": "0.1.23",
       "date": "2026-06-05",
       "title": "Group-Play Stability",
