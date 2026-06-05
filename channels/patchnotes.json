@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "version": "0.1.19",
+      "date": "2026-06-05",
+      "title": "Leveling & Loot",
+      "notes": [
+        "Leveling up now actually makes you stronger — each level gives a clear, noticeable jump in your damage (it barely moved before).",
+        "Eased the early XP pace a little so the first few levels aren't over in a handful of kills.",
+        "That rare food drop is now FAR rarer — a true once-in-a-blue-moon find worth bragging about.",
+        "Loot pickups are more reliable, and dropped loot bags now tidy themselves up after a few minutes."
+      ]
+    },
+    {
       "version": "0.1.18",
       "date": "2026-06-05",
       "title": "Hotfix — Camera & Polish",
