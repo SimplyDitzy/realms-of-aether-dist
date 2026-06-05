@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "version": "0.1.21",
+      "date": "2026-06-05",
+      "title": "Hotfix — Stuck Below the World",
+      "notes": [
+        "Fixed players getting trapped below the world / staring at a black screen right after spawning. If there's ever no solid ground beneath you, you're now safely returned to the Training Grounds instead of being stuck."
+      ]
+    },
+    {
       "version": "0.1.20",
       "date": "2026-06-05",
       "title": "Hotfix — Falling Through the World",
