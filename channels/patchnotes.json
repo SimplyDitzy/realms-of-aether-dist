@@ -1,6 +1,23 @@
 {
   "entries": [
     {
+      "version": "0.1.23",
+      "date": "2026-06-05",
+      "title": "Group-Play Stability",
+      "notes": [
+        "The big one — fixed the crash where a whole group would drop and get stuck in the world a few minutes into a busy fight. Group goblin-hunting is stable now.",
+        "Goblins no longer stutter and slow down over a long session — the world stays smooth as the action picks up.",
+        "New: if you ever get wedged in the world, type /refresh (or /stuck) in chat to pop back to the Training Grounds — no need to wait for a fix.",
+        "Out-of-combat healing was way too strong — toned it down so you can't just tank through a fight; taking any hit stops it.",
+        "Cleaned up the screen — you no longer see everyone's passive-heal green numbers piling up.",
+        "Spells now fly straight through your allies instead of being blocked by a teammate in the way.",
+        "You can see other players' levels right on their nameplate now.",
+        "Goblins stay on you in melee instead of freezing mid-swing, so you can't just run circles around them.",
+        "Smoother mouse — the cursor no longer jumps to the centre when you let go of right-click, and toggling the cursor no longer drags your camera.",
+        "The Character screen (C) is a bit bigger and easier to read."
+      ]
+    },
+    {
       "version": "0.1.22",
       "date": "2026-06-05",
       "title": "Multiplayer Stability & Combat Fixes",
