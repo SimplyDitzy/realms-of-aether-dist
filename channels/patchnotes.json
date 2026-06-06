@@ -1,6 +1,20 @@
 {
   "entries": [
     {
+      "version": "0.1.25",
+      "date": "2026-06-05",
+      "title": "Block Stance & Combat Fixes",
+      "notes": [
+        "Blocking finally means something — Sentinels now have a Guard meter under their health. Each hit your shield soaks spends Guard (a heavy blow drains a big chunk, lots of little hits chip away). Run dry and your stance BREAKS: your shield drops and you're staggered for a moment before it recovers. Time your blocks instead of holding forever.",
+        "Goblins will run you down — a melee goblin now breaks into a real chase, fast enough to catch you if you just walk backwards. Ranged heroes will want to use crowd control to peel them off (a sprint can still buy you a moment).",
+        "Goblins move smoothly now — fixed the crude stutter-step they did while closing in on you.",
+        "Shield Charge aims with your mouse in classic camera — point where you want to rush and the charge follows your cursor (it was locked straight ahead before).",
+        "Fixed the bug report / suggestion box — you can actually type in it now when you open it from the Settings menu.",
+        "Pressing U to stow your weapon now also clears it from your Character panel, so your gear and your hands always agree.",
+        "Type /help to see every chat command at a glance."
+      ]
+    },
+    {
       "version": "0.1.24",
       "date": "2026-06-05",
       "title": "Parties, Friends & Whispers",
