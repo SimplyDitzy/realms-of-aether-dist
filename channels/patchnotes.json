@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "version": "0.1.27",
+      "date": "2026-06-06",
+      "title": "Party & Combat Polish",
+      "notes": [
+        "Party frames got an upgrade — each ally's tab is now bordered in their class colour, shows their class and level, and displays exact HP/mana numbers. Fixed the top party member sitting too high on the screen.",
+        "Esc now closes your open menus (party/social, character, bag…) first, instead of jumping straight to the pause menu.",
+        "No more passive healing in the middle of a fight — your HP only regenerates once you're out of combat. In-combat healing is the healer's job.",
+        "Fixed a duel bug where a healer's heal spell could accidentally land on their opponent."
+      ]
+    },
+    {
       "version": "0.1.26",
       "date": "2026-06-06",
       "title": "Smoother Group Play",
