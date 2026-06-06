@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "version": "0.1.26",
+      "date": "2026-06-06",
+      "title": "Smoother Group Play",
+      "notes": [
+        "Big performance fix for playing together — when several of you fight in the same area, the world stays smooth instead of getting laggy and out of sync. The server now does far less work tracking goblins that are just standing around in the woods, and players' movement is sent more efficiently.",
+        "Groundwork for bigger group adventures and a more crowded forest down the line."
+      ]
+    },
+    {
       "version": "0.1.25",
       "date": "2026-06-05",
       "title": "Block Stance & Combat Fixes",
