@@ -2,7 +2,7 @@
   "channel": "live",
   "version": "0.1.25",
   "artifact": {
-    "url": "https://github.com/SimplyDitzy/realms-of-aether-dist/releases/download/v0.1.25/RealmsOfAether-windows-0.1.25.zip",
+    "url": "https://raw.githubusercontent.com/SimplyDitzy/realms-of-aether-dist/downloads/RealmsOfAether-windows.zip",
     "sha256": "2210120e9a2c0cb1440be8b429d36e719bedaa0d9b459af097c09a08d75c7e41",
     "size": 59524796,
     "platform": "windows"
